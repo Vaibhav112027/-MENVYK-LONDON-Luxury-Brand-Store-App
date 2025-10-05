@@ -40,6 +40,22 @@ Tech Stack
 
 -> Navigation: Android Jetpack Navigation
 
+💎 Features
+
+-> Elegant and minimalist UI inspired by luxury fashion brands
+
+-> Smooth transitions and responsive layout
+
+-> Brand carousel and personalized recommendations
+
+-> Product details with live price and quantity updates
+
+-> Modern shopping experience designed for style-conscious users
+
+📱 Vision
+
+To create a digital luxury wardrobe — where premium design meets effortless usability
+
 📱 About the App
 
 The MENVYK app brings the essence of a luxury brand store to mobile. From premium fabrics to modern silhouettes, it offers curated collections for users seeking timeless elegance and exclusivity.
