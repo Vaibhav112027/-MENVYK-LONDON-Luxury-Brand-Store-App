@@ -6,25 +6,25 @@ A clean and minimal entry screen featuring the MENVYK logo and tagline. It sets 
 
 🌸 Home Screen
 
-Personalized greeting for users
+-> Personalized greeting for users
 
-Search bar for exploring top brands (Louis Vuitton, Dior, Prada, Tom Ford, etc.)
+-> Search bar for exploring top brands (Louis Vuitton, Dior, Prada, Tom Ford, etc.)
 
-Carousel banner highlighting ongoing collections
+-> Carousel banner highlighting ongoing collections
 
-Product recommendations for a curated experience
+-> Product recommendations for a curated experience
 
-Soft pastel UI theme that conveys calm luxury
+-> Soft pastel UI theme that conveys calm luxury
 
-🛍️ Product Detail Screen
+🛍️ Product Detail Screen 
 
-High-quality product image preview
+-> High-quality product image preview
 
-Dynamic price, rating, color, and size selection
+-> Dynamic price, rating, color, and size selection
 
-Quantity adjuster (+/-)
+-> Quantity adjuster (+/-)
 
-“Buy Now” button for quick checkout
+-> “Buy Now” button for quick checkout
 
 Clean and user-friendly layout for a premium shopping flow
 
