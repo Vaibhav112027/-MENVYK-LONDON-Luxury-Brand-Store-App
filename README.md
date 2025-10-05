@@ -28,6 +28,18 @@ A clean and minimal entry screen featuring the MENVYK logo and tagline. It sets 
 
 -> Clean and user-friendly layout for a premium shopping flow
 
+Tech Stack
+
+-> Language: Kotlin / Java
+
+-> Framework: Android SDK
+
+-> Architecture: MVVM (optional mention if used)
+
+-> UI: XML-based layout with custom components
+
+-> Navigation: Android Jetpack Navigation
+
 📱 About the App
 
 The MENVYK app brings the essence of a luxury brand store to mobile. From premium fabrics to modern silhouettes, it offers curated collections for users seeking timeless elegance and exclusivity.
