@@ -3,7 +3,7 @@ MENVYK  LONDON is a premium fashion and lifestyle application designed to delive
 🩶 Splash Screen
 
 A clean and minimal entry screen featuring the MENVYK logo and tagline. It sets the tone for the brand’s luxury appeal.
-
+<img width="336" height="702" alt="image" src="https://github.com/user-attachments/assets/751e5385-9c24-4afd-8ef9-24c773edc8cc" />
 🌸 Home Screen
 
 -> Personalized greeting for users
@@ -15,6 +15,8 @@ A clean and minimal entry screen featuring the MENVYK logo and tagline. It sets 
 -> Product recommendations for a curated experience
 
 -> Soft pastel UI theme that conveys calm luxury
+<img width="330" height="711" alt="image" src="https://github.com/user-attachments/assets/1ce68385-f1e5-4f14-bcec-a05f562ba115" />
+
 
 🛍️ Product Detail Screen 
 
@@ -59,4 +61,4 @@ To create a digital luxury wardrobe — where premium design meets effortless us
 📱 About the App
 
 The MENVYK app brings the essence of a luxury brand store to mobile. From premium fabrics to modern silhouettes, it offers curated collections for users seeking timeless elegance and exclusivity.
-<img width="336" height="702" alt="image" src="https://github.com/user-attachments/assets/751e5385-9c24-4afd-8ef9-24c773edc8cc" />
+
