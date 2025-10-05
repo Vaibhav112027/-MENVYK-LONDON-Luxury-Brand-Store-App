@@ -59,3 +59,4 @@ To create a digital luxury wardrobe — where premium design meets effortless us
 📱 About the App
 
 The MENVYK app brings the essence of a luxury brand store to mobile. From premium fabrics to modern silhouettes, it offers curated collections for users seeking timeless elegance and exclusivity.
+<img width="336" height="702" alt="image" src="https://github.com/user-attachments/assets/751e5385-9c24-4afd-8ef9-24c773edc8cc" />
