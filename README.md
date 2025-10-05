@@ -26,7 +26,7 @@ A clean and minimal entry screen featuring the MENVYK logo and tagline. It sets 
 
 -> “Buy Now” button for quick checkout
 
-Clean and user-friendly layout for a premium shopping flow
+-> Clean and user-friendly layout for a premium shopping flow
 
 📱 About the App
 
