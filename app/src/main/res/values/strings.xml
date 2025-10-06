@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">E-commerce_app</string>
+    <string name="Inteo_title">Make \nYour Style True \nCome Here</string>
+    <string name="go">Go</string>
+    <string name="what_are_you_looking_for">What are you Looking for ?</string>
+    <string name="recommendation">Recommendation</string>
+    <string name="a_luxury_experience_in_every_thread">A Luxury Experience in Every Thread</string>
+    <string name="total_price">Total Price</string>
+    <string name="select_colour">Select Colour</string>
+    <string name="select_size">Select Size</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="title">Title</string>
+</resources>
