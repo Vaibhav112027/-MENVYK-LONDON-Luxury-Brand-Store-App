@@ -62,4 +62,10 @@ The MENVYK app brings the essence of a luxury brand store to mobile. From premiu
 <img width="336" height="702" alt="image" src="https://github.com/user-attachments/assets/751e5385-9c24-4afd-8ef9-24c773edc8cc" />
 <img width="330" height="711" alt="image" src="https://github.com/user-attachments/assets/1ce68385-f1e5-4f14-bcec-a05f562ba115" />
 <img width="268" height="590" alt="image" src="https://github.com/user-attachments/assets/0e5ada0d-53c5-4f40-8c76-d745eb1cda18" />
+<img width="300" height="639" alt="Screenshot 2025-10-09 231549" src="https://github.com/user-attachments/assets/e7bbce34-2264-4f30-b367-d1f4fe7dd4ba" />
+<img width="297" height="644" alt="Screenshot 2025-10-09 175829" src="https://github.com/user-attachments/assets/d3e59ee1-2c51-4b59-a89c-3e0b49b57088" />
+<img width="391" height="709" alt="Screenshot 2025-10-09 155800" src="https://github.com/user-attachments/assets/d88ec8a6-d050-4857-b2fa-2226ce8908bf" />
+<img width="427" height="750" alt="Screenshot 2025-10-09 155535" src="https://github.com/user-attachments/assets/1315fdf9-5837-4e62-8e82-75a9e0098b9a" />
+<img width="399" height="742" alt="Screenshot 2025-10-09 140823" src="https://github.com/user-attachments/assets/7b5e5f2d-12ac-423b-85a4-4eddf6ed3bc4" />
+
 
